@@ -28,17 +28,17 @@
     "professionalexp": [
       {
         "id": 1,
-        "company": "Company X",
-        "position": "Full stack Js developer",
-        "date": "22-01-2022",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+        "company": "Time Course",
+        "position": "웹 퍼블리셔",
+        "date": "2022-03-07",
+        "description": "기존 중부대학교 수강신청사이트를 이용함에 있어서 여러 가지 불편한 점이 있다고 판단되어 팀원들과 수정&추가를 하면 어떨까 해서 시작했다. 특히 투박한 UI와 복잡하고 힘든 수강신청과정, 교과목의 평가 등 부족한부분과 더 필요한 부분을 추가를 해서 중부대학교 학생들에게 조금 더 편한 사이트를 제공하고 싶어서 이와 같은 프로젝트를 진행했다."
       },
       {
         "id": 2,
-        "company": "Company X",
-        "position": "Web Developer",
-        "date": "22-01-2022",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+        "company": "Fallguys",
+        "position": "웹 프론트엔드 개발자",
+        "date": "2022-09-12",
+        "description": "한국의 계절별 다양한 축제 문화를 소개하는 사이트를 편하고 보기 쉽게 만듦으로써 지역별로 어떤 축제들이 존재하는지 모르는 사람들이 많기 때문에, 다양한 정보들을 하나의 사이트에서 손쉽게 얻어 축제들에 대한 관심도를 높이고 사이트 이용자들에게 지방에 대한 여행 욕구를 증진시키기 위해 이와 같은 프로젝트를 진행했다."
       }
     ]
   },
@@ -46,30 +46,30 @@
     "project": [
       {
         "id": 1,
-        "title": "Project X",
-        "photo": "https://firasjerbi.me/_next/static/images/airbnb_clone-69559d72c0ee495fd7876479179bcba1.png",
-        "link": "https://airbnb-nextjs-gamma.vercel.app/",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        "title": "Time Course",
+        "url": "https://i.ibb.co/YkPY4sr/Time-Course.png",
+        "link": "https://time-course.vercel.app/",
+        "description": "중부대학교 수강신청 사이트 프로젝트"
       },
       {
         "id": 2,
-        "title": "Project X",
-        "photo": "https://firasjerbi.me/_next/static/images/airbnb_clone-69559d72c0ee495fd7876479179bcba1.png",
-        "link": "https://airbnb-nextjs-gamma.vercel.app/",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, "
+        "title": "Next Shop",
+        "url": "https://i.ibb.co/hfjYM5Y/Next-Shop.png",
+        "link": "https://nextshop-puce.vercel.app/",
+        "description": "인터넷 쇼핑 사이트 프로젝트 "
       },
       {
         "id": 3,
-        "title": "Project X",
-        "photo": "https://firasjerbi.me/_next/static/images/airbnb_clone-69559d72c0ee495fd7876479179bcba1.png",
-        "link": "https://airbnb-nextjs-gamma.vercel.app/",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, "
+        "title": "Let's Festival",
+        "url": "https://i.ibb.co/LPB2Tmf/Lets-Festival.png",
+        "link": "https://let-s-festival-ruby.vercel.app/",
+        "description": "전국 축제 정보 사이트 프로젝트 "
       },
       {
         "id": 4,
         "title": "Project X",
         "photo": "https://firasjerbi.me/_next/static/images/airbnb_clone-69559d72c0ee495fd7876479179bcba1.png",
-        "link": "https://airbnb-nextjs-gamma.vercel.app/",
+        "link": "https://let-s-festival-ruby.vercel.app/",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, "
       }
     ]

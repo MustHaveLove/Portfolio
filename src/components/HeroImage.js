@@ -1,10 +1,11 @@
-import React from "react";
+import React from 'react';
+import face from '../images/face.jpg';
 
 function HeroImage() {
   return (
     <img
       className="mb-4 md:w-[360px] bg-transparent lg:w-[400px] xl:w-[480px] "
-      src="https://tailwindcomponents.com/svg/website-designer-bro.svg"
+      src={face}
       alt=""
     />
   );
