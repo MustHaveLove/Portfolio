@@ -1,8 +1,8 @@
-const withImages = require("next-images");
+const withImages = require('next-images');
 
 module.exports = withImages({
   images: {
     disableStaticImages: true,
-    domains: ["firasjerbi.me"],
+    domains: ['i.ibb.co'],
   },
 });
