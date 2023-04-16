@@ -67,10 +67,10 @@
       },
       {
         "id": 4,
-        "title": "Project X",
+        "title": "Cloud Office(예정)",
         "photo": "https://firasjerbi.me/_next/static/images/airbnb_clone-69559d72c0ee495fd7876479179bcba1.png",
         "link": "https://let-s-festival-ruby.vercel.app/",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, "
+        "description": "클라우드 기반의 문서 관리 및 전자결제 시스템 프로젝트"
       }
     ]
   }
