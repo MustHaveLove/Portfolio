@@ -15,12 +15,12 @@ function SocialButtons() {
         />
       </a>
       <a
-        href="https://www.facebook.com/profile.php?id=100005443158970"
+        href="https://www.instagram.com/h_mi_amor/?next=%2F"
         target="_blank"
         className="socialLink hover:animate-pulse hover:shadow-md ease-in-out bg-custom-lightGray"
       >
         <img
-          src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202110facebooklogosocialsocialmedia-115707_115594.png"
+          src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png"
           alt="Jaewon"
           className=""
         />
