@@ -79,4 +79,8 @@ body {
     width: 0px;
     background: transparent; /* make scrollbar transparent */
   }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
 }
